@@ -1,0 +1,1 @@
+pnpm install --save-exact --save react react-dom next typescript @types/react @types/node @types/react-dom eslint eslint-config-next
